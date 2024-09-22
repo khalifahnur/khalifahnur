@@ -1,6 +1,5 @@
-<h1 align="center" color="#000">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=👋 Hi%2C+there+I'm+Khalif noor!" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+khalif+noor!)](https://git.io/typing-svg)
+----
 
 ### A passionate mobile and web developer.
 
