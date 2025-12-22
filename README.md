@@ -9,7 +9,7 @@
 ---
 
 ### Contact
-- [LinkedIn](https://www.linkedin.com/khalif-noor)
+- [LinkedIn](https://www.linkedin.com/in/khalif-noor/)
 - [Twitter](https://twitter.com/kh_lif_h)
 - [Email](mailto:khalifahnur1095@example.com)
 
